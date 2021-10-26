@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivoron
-- 👀 I’m interested in web-development, investing, traveling, health, hot girls
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested in web-development, investing, traveling, health
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ivoron - t.me
 
