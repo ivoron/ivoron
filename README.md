@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivoron
 - 👀 I’m interested in web-development, investing, traveling, health
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Redux, Mob-X
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ivoron - t.me
 
